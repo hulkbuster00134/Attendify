@@ -10,6 +10,9 @@ A Python-based attendance management system.
 - View Attendance Records
 - Calculate Attendance Percentage
 
+##Preview
+![Menu](screenshots/menu.png)
+
 ## Technologies Used
 
 - Python
